@@ -2,7 +2,7 @@
 
 This changelog will include all significant changes to stringhide.
 
-## [Unreleased]
+## 0.1.2
 
 - **HOTFIX**: Fix vital bug that stopped XOR functions from working.
 
